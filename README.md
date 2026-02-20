@@ -37,3 +37,12 @@ The objective is to understand how different algorithms work, how data is prepro
 - Recall
 - F1-Score
 - Confusion Matrix
+
+  ## Results
+The project compares multiple machine learning models and highlights the strengths and weaknesses of each algorithm based on performance metrics.
+
+ ## Future Enhancements
+- Add more datasets
+- Implement advanced algorithms
+- Perform hyperparameter tuning
+- Deploy models using Streamlit

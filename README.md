@@ -22,3 +22,11 @@ The objective is to understand how different algorithms work, how data is prepro
 - Random Forest
 - K-Nearest Neighbors (KNN)
 - Support Vector Machine (SVM)
+
+## Workflow
+- Data Collection
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Model Training
+- Model Evaluation
+- Performance Comparison

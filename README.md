@@ -30,3 +30,10 @@ The objective is to understand how different algorithms work, how data is prepro
 - Model Training
 - Model Evaluation
 - Performance Comparison
+
+## Evaluation Metrics
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- Confusion Matrix

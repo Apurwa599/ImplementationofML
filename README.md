@@ -14,3 +14,11 @@ The objective is to understand how different algorithms work, how data is prepro
 - Matplotlib
 - Seaborn
 - Scikit-learn
+
+##  Machine Learning Algorithms Implemented
+- Linear Regression
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)

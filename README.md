@@ -6,3 +6,11 @@ The objective is to understand how different algorithms work, how data is prepro
 - │── Implementation of Machine Learning Algorithms.ipynb
 - │── README.md
 - │── requirements.txt
+
+## Technologies Used
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn

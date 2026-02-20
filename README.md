@@ -7,7 +7,7 @@ The objective is to understand how different algorithms work, how data is prepro
 - │── README.md
 - │── requirements.txt
 
-## Technologies Used
+### Technologies Used
 - Python
 - NumPy
 - Pandas
@@ -15,7 +15,7 @@ The objective is to understand how different algorithms work, how data is prepro
 - Seaborn
 - Scikit-learn
 
-##  Machine Learning Algorithms Implemented
+###  Machine Learning Algorithms Implemented
 - Linear Regression
 - Logistic Regression
 - Decision Tree
@@ -23,7 +23,7 @@ The objective is to understand how different algorithms work, how data is prepro
 - K-Nearest Neighbors (KNN)
 - Support Vector Machine (SVM)
 
-## Workflow
+### Workflow
 - Data Collection
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -31,17 +31,17 @@ The objective is to understand how different algorithms work, how data is prepro
 - Model Evaluation
 - Performance Comparison
 
-## Evaluation Metrics
+### Evaluation Metrics
 - Accuracy
 - Precision
 - Recall
 - F1-Score
 - Confusion Matrix
 
-  ## Results
+### Results
 The project compares multiple machine learning models and highlights the strengths and weaknesses of each algorithm based on performance metrics.
 
- ## Future Enhancements
+### Future Enhancements
 - Add more datasets
 - Implement advanced algorithms
 - Perform hyperparameter tuning
